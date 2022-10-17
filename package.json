@@ -4,7 +4,7 @@
   "description": "A CEX Telegram bot using a webapp for TON Rocket",
   "main": "index.js",
   "author": "2ico",
-  "license": "MIT",
+  
   "packageManager": "yarn@3.2.3",
   "workspaces": [
     "ton-rocket-cex-bot",
